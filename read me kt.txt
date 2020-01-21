@@ -1,5 +1,9 @@
 Hello there, hope you have a great day.
 
+To run: 
+npm i
+npm start
+
 These are the major design and architecture decisions I had to take while building this web application.
 
 
@@ -18,3 +22,4 @@ This could be easily deployed on a cloud based IAAS (Infrastructure as a service
 
 I wanted to add functionality of Upcoming events near me through google api but unfortunately I didnt get time.
 Thank you KT.
+
