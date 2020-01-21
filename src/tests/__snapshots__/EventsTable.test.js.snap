@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventsTable component renders without crashing 1`] = `
+<styled.div
+  className="col-sm-12 col-xl-8"
+>
+  <h2
+    className="alert-light text-center"
+  >
+    no events found
+  </h2>
+</styled.div>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArtistCard component renders without crashing 1`] = `
+<styled.div
+  className="col-xs-12 col-lg-4 mb-4"
+>
+  <styled.div
+    className="card"
+  >
+    <img
+      alt="Card Aartist cap"
+      className="card-img-top"
+      src="hallo"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        hallo
+      </h5>
+      <p
+        className="card-text"
+      >
+        hallo
+      </p>
+      <a
+        className="btn btn-primary"
+        href="hallo"
+      >
+        Go to facebook
+      </a>
+    </div>
+  </styled.div>
+</styled.div>
+`;

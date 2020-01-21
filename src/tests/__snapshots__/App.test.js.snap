@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App use DebounceInput component 1`] = `
+<div
+  className="App"
+>
+  <Header />
+  <styled.div
+    className="container-fluid"
+  >
+    <styled.div
+      className="form-group col-sm-12 col-xl-3 pt-4 p-0"
+    >
+      <DebounceInput
+        className="form-control"
+        debounceTimeout={500}
+        element="input"
+        forceNotifyByEnter={true}
+        forceNotifyOnBlur={true}
+        minLength={1}
+        onChange={[Function]}
+        onKeyDown={[Function]}
+        placeholder="Enter artist name"
+        type="text"
+        value=""
+      />
+    </styled.div>
+  </styled.div>
+</div>
+`;
