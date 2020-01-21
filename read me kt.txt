@@ -1,0 +1,20 @@
+Hello there, hope you have a great day.
+
+These are the major design and architecture decisions I had to take while building this web application.
+
+
+Choosing a Single Page Application (SPA) Framework:
+React was the most loved web framework of 2019 according to stackoverflow survey. It has most questions, really good documentation and lots of support e.g components available.
+
+
+Choosing a Programming Pattern:
+React has several programming patterns and I chose to sepreate concerns in a container and a logic component.
+Used Controlled Components.
+
+
+Deployment:
+This could be easily deployed on a cloud based IAAS (Infrastructure as a service) like Amazon's AWS or Microsoft Azure.
+
+
+I wanted to add functionality of Upcoming events near me through google api but unfortunately I didnt get time.
+Thank you KT.
